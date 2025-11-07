@@ -12,7 +12,7 @@
 ## 📘 Overview
 
 This repository serves as a public timestamp of authorship for the proposal  
-**"ChatGPT Video Explanation Mode" (v1.0)** — created by **Lucas Pereira dos Santos**  
+**"ChatGPT Video Explanation Mode" (v1.0)** — created by **Ian Peixoto**  
 on **November 7, 2025**.
 
 The document proposes a multimodal AI feature that allows ChatGPT to automatically  
