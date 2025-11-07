@@ -2,7 +2,7 @@
 
 **Author:** Ian Peixoto  
 **Date (v1.0):** November 7, 2025  
-**File:** ChatGPT_Video_Explanation_Mode_v1.0_LucasPereiraDosSantos.pdf  
+**File:** ChatGPT_Video_Explanation_Mode_v1.0_IanPeixoto.pdf  
 **Integrity (SHA-256):** F6194164EBB6B6394D0B053F4D48218269E1737AB583115A6FDC318173A69BE8  
 
 **Notes:** All rights reserved. Shared for evaluation purposes only. No license is granted.
