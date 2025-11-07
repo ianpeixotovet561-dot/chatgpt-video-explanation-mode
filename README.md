@@ -9,7 +9,7 @@
 
 ---
 
-## 📘 Overview
+## Overview
 
 This repository serves as a public timestamp of authorship for the proposal  
 **"ChatGPT Video Explanation Mode" (v1.0)** — created by **Ian Peixoto**  
@@ -21,7 +21,7 @@ natural voice synthesis, visual design, and dynamic animation.
 
 ---
 
-## 🧠 Purpose
+## Purpose
 
 - To make ChatGPT explanations **more accessible and inclusive**  
   for users who struggle with reading comprehension or prefer audiovisual learning.  
@@ -31,7 +31,7 @@ natural voice synthesis, visual design, and dynamic animation.
 
 ---
 
-## 🧩 Components Proposed
+## Components Proposed
 
 - AI-generated narration (TTS / Whisper models)  
 - Automatic visuals and animations (DALL·E / Sora integration)  
@@ -40,7 +40,7 @@ natural voice synthesis, visual design, and dynamic animation.
 
 ---
 
-## 🕒 Version Log
+## Version Log
 
 | Version | Date | Description |
 |----------|------|-------------|
